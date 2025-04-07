@@ -40,19 +40,19 @@ A simple RESTful API built using **Node.js** and **Express.js** that performs ba
 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/om272004/product-api-nodejs.git
+  ``` git clone https://github.com/om272004/product-api-nodejs.git```
 
 2. Navigate into the project directory:
-   cd product-api-nodejs
+  ``` cd product-api-nodejs ```
 
 3. Install dependencies:
-   npm install
+  ``` npm install ```
 
 4. Run the server:
-   node app.js
+   ```node app.js```
 
 5. The server will start at:
-   http://localhost:3000
+   ```http://localhost:3000```
 
 6. Use tools like Postman or Thunder Client to test the following endpoints:
    - GET     /products
