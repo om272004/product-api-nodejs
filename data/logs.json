@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-04-07T13:38:52.194Z",
+    "method": "GET",
+    "url": "/products/"
+  },
+  {
+    "timestamp": "2025-04-07T13:39:02.539Z",
+    "method": "POST",
+    "url": "/products/"
+  },
+  {
+    "timestamp": "2025-04-07T13:39:08.347Z",
+    "method": "GET",
+    "url": "/products/"
+  },
+  {
+    "timestamp": "2025-04-07T13:39:33.683Z",
+    "method": "DELETE",
+    "url": "/products/4"
+  },
+  {
+    "timestamp": "2025-04-07T13:39:38.636Z",
+    "method": "GET",
+    "url": "/products/4"
+  },
+  {
+    "timestamp": "2025-04-07T13:39:43.270Z",
+    "method": "GET",
+    "url": "/products/"
+  }
+]

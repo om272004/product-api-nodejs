@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 799.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Book",
+    "price": 15.99,
+    "category": "Education"
+  }
+]
